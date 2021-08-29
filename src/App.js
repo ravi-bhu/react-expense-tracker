@@ -3,8 +3,8 @@ import Expenses from './components/Expenses/Expenses';
 import NewExpense from './components/NewExpense/NewExpense';
 
 const DUMMY_EXPENSES = [
-  { id: 1, title: 'Apple', date: new Date(2021, 7, 10), amount: '9.22' },
-  { id: 2, title: 'Fuel', date: new Date(2021, 5, 13), amount: '20.00' },
+  { id: 1, title: 'Apple', date: new Date(2020, 7, 10), amount: '9.22' },
+  { id: 2, title: 'Fuel', date: new Date(2020, 5, 13), amount: '20.00' },
   { id: 3, title: 'Recharge', date: new Date(2021, 5, 10), amount: '1.99' },
   { id: 4, title: 'Movie', date: new Date(2021, 1, 1), amount: '5.49' },
 ];
